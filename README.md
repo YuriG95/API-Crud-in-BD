@@ -1,6 +1,6 @@
 # Flask API com Integração ao Banco de Dados SQL
 
-Bem-vindo à **API Flask com integração ao banco de dados SQL**. 
+Bem-vindo à ** Minha API Flask com integração ao banco de dados SQL**. 
 
 ### Este meu projeto foi desenvolvido para fornecer uma estrutura simples e escalável para criar APIs RESTful com Python e Flask, utilizando bancos de dados SQL para persistência de dados.
 
