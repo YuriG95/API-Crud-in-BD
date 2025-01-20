@@ -25,8 +25,13 @@ Certifique-se de ter os seguintes itens instalados no seu ambiente:
 - **Postman** (Opicional para executar as Apis, mas recomendo)
 
 ---
+##  **Funcionamento da Aplicação**
+![Texto alternativo](https://github.com/YuriG95/API-Crud-in-BD/blob/master/Apipython.jpg)
+
 
 ## 📦 **Instalação**
 1. Clone este repositório:
    ```bash
    git clone https://github.com/YuriG95/API-Crud-in-BD.git
+
+   
